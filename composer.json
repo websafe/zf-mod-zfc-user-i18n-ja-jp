@@ -13,7 +13,7 @@
         "ZF-Commons",
         "ZfcUser",
         "ja_JP",
-        "japanese"
+        "Japanese"
     ],
     "homepage": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp",
     "authors": [
@@ -39,7 +39,9 @@
         "php": ">=5.3.3"
     },
     "suggest": {
-        "zf-commons/zfc-user": "This module is a translation / language pack for [zf-commons/zfc-user], so You probably should install it too."
+        "zf-commons/zfc-user": "This module is a translation / language pack for [zf-commons/zfc-user], so You probably should install it too.",
+        "websafe/zf-mod-zfc-user-i18n-de-de": "German de_DE translation / language pack module for the [ZF-Commons/ZfcUser] module.",
+        "websafe/zf-mod-zfc-user-i18n-pl-pl": "Polish pl_PL translation / language pack module for the [ZF-Commons/ZfcUser] module."
     },
     "autoload": {
         "psr-0": {
@@ -53,9 +55,5 @@
         "branch-alias": {
             "dev-master": "0.0.1-dev"
         }
-    },
-    "dist": {
-        "url": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp/archive/master.zip",
-        "type": "zip"
     }
 }
