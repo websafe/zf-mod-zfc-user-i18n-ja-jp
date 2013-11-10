@@ -1,0 +1,61 @@
+{
+    "name": "websafe/zf-mod-zfc-user-i18n-ja-jp",
+    "description": "Japanese ja_JP translation / language pack module for the [ZF-Commons/ZfcUser] module. Japanese ja_JP translation / language pack module for the [ZF-Commons/ZfcUser] module.",
+    "version": "0.0.1-dev",
+    "type": "zf-module",
+    "license": "MIT",
+    "keywords": [
+        "zf2",
+        "module",
+        "translation",
+        "i18n",
+        "language pack",
+        "ZF-Commons",
+        "ZfcUser",
+        "ja_JP",
+        "japanese"
+    ],
+    "homepage": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp",
+    "authors": [
+        {
+            "name": "Thomas Szteliga",
+            "email": "ts@websafe.pl",
+            "homepage": "https://websafe.pl/",
+            "role": "Developer"
+        },
+        {
+            "name": "Kazusuke Sasezaki",
+            "email": "sasezaki@gmail.com",
+            "homepage": "https://twitter.com/sasezaki",
+            "role": "Translator"
+        }
+    ],
+    "support": {
+        "email": "support@websafe.pl",
+        "issues": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp/issues",
+        "source": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp"
+    },
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "suggest": {
+        "zf-commons/zfc-user": "This module is a translation / language pack for [zf-commons/zfc-user], so You probably should install it too."
+    },
+    "autoload": {
+        "psr-0": {
+            "WebsafeZfModZfcUserI18nJaJp": "src/"
+        },
+        "classmap": [
+            "./Module.php"
+        ]
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.0.1-dev"
+        }
+    },
+    "dist": {
+        "url": "https://github.com/websafe/zf-mod-zfc-user-i18n-ja-jp/archive/master.zip",
+        "type": "zip"
+    }
+}
