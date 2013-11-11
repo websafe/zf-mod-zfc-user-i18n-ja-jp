@@ -93,7 +93,7 @@ will probably stick to a cached version.
 Contributing
 --------------------------------------------------------------------------------
 
-If You want to help with the German translation, just [edit ja_JP.po] located
+If You want to help with the Japanese translation, just [edit ja_JP.po] located
 in `./language` and after all send a pull request. When You're not familiar
 with editing `.po` files - simply [report an issue].
 
