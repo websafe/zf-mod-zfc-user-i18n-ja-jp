@@ -1,3 +1,13 @@
+Update 2014-02-27: Module discontinued.
+=======================================
+
+pl_PL, de_DE, ja_jP and ru_RU translations are now merged
+into [ZF-Commons/ZfcUser] master branch :-) 
+
+Translation continues [there](https://github.com/ZF-Commons/ZfcUser).
+
+
+
 WebsafeZfModZfcUserI18nJaJp
 ================================================================================
 
